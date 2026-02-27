@@ -31,7 +31,7 @@ Evaluate average CV accuracy for:
 
 **Visualization & analysis (saved under `png/`):**
 - Accuracy distribution boxplots (10-fold scores)
-- Confusion matrices via `cross_val_predict`
+- Confusion matrices
 - Metrics computed from confusion matrix: Accuracy / Precision / Recall / F1
 
 ### Part 2: Cross-Validation with Hyperparameter Tuning (GridSearchCV)
