@@ -15,7 +15,7 @@ The workflow includes **data preprocessing**, **10-fold stratified cross-validat
 ## Methods Overview
 
 ### Preprocessing
-Missing values/Feature scaling/Label encoding:
+Missing values/Feature scaling/Label encoding
 
 ### Part 1: 10-fold Stratified Cross-Validation
 Evaluate average CV accuracy for:
