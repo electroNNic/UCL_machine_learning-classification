@@ -1,6 +1,9 @@
-# Rice Classification (Model Benchmark + CV + Tuning)
+# Classification (Model Benchmark + CV + Tuning)
 
 This repository contains a machine learning experiment for **binary classification** on a rice dataset.
+
+The overall pipeline is applicable to most classification datasets (including datasets with two or more classes).
+
 The workflow includes **data preprocessing**, **10-fold stratified cross-validation**, **model benchmarking**, **confusion matrix analysis**, and **hyperparameter tuning**.
 
 ## Dataset
