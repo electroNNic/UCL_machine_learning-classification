@@ -3,11 +3,6 @@
 This repository contains a machine learning experiment for **binary classification** on a rice dataset.
 The workflow includes **data preprocessing**, **10-fold stratified cross-validation**, **model benchmarking**, **confusion matrix analysis**, and **hyperparameter tuning**.
 
-## Project Structure
-├── UCL_ml.ipynb # Main notebook
-├── rice-final2.csv # Dataset file (place it in the same folder)
-└── png/ # Output figures (auto-generated)
-
 ## Dataset
 
 - File name: `rice-final2.csv`
